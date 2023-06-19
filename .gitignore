@@ -1,0 +1,24 @@
+# .NET build output
+bin/
+obj/
+
+# .NET project files
+*.userprefs
+*.vscode/
+*.vs/
+*.sln.ide
+
+# NuGet packages
+*.nuget.props
+*.nuget.targets
+.project.assets.json
+.paket/
+paket.lock
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Oo]ut/
+[Ll]og/
